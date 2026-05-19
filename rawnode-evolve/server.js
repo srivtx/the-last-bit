@@ -1,4 +1,4 @@
-// Raw Node.js — no frameworks. Everything in this repo is raw except README.md.
+// Handcoded — everything in this repo is written by hand except README.md.
 
 // first of all whats a node http server 
 

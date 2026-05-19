@@ -1,6 +1,6 @@
 # the-last-bit
 
-Everything here is **raw Node.js** (no Express, no frameworks). The only non-code file is this README.
+Everything here is **handcoded** — the only file that isn’t is this README.
 
 Raw Node.js HTTP servers.
 
