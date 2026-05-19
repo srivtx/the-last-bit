@@ -8,3 +8,4 @@ Raw Node.js HTTP servers.
 2. [rawnode-evolve](https://github.com/srivtx/the-last-bit/tree/main/rawnode-evolve) — same server, refactored with a `sendjson` helper
 3. [rawnode-method-based-routing](https://github.com/srivtx/the-last-bit/tree/main/rawnode-method-based-routing) — routes by path and HTTP method (GET / 405 for wrong method)
 4. [rawnode-middleware-logger](https://github.com/srivtx/the-last-bit/tree/main/rawnode-middleware-logger) — method-based routing with a handrolled `logger` middleware
+5. [rawnode-auth-middleware](https://github.com/srivtx/the-last-bit/tree/main/rawnode-auth-middleware) — `/admin` protected by `?secret=opensesame` in middleware
