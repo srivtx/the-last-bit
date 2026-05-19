@@ -1,3 +1,5 @@
+// Raw Node.js — no frameworks. Everything in this repo is raw except README.md.
+
 // first of all whats a node http server 
 
 // it sends us request and we do respond right  ? 
